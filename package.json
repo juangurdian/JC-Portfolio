@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@react-three/fiber": "^9.1.0",
+    "@tabler/icons-react": "^3.31.0",
     "@types/three": "^0.174.0",
     "clsx": "^2.1.1",
     "mini-svg-data-uri": "^1.4.4",

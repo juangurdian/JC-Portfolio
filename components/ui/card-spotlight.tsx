@@ -8,7 +8,7 @@ import { cn } from "@/utils/utils";
 export const CardSpotlight = ({
   children,
   radius = 350,
-  color = "blue",
+  color = "#34046B",
   className,
   ...props
 }: {
